@@ -119,3 +119,6 @@ This policy is effective as of 2020-08-12
 
 If you have any questions or suggestions about our Privacy Policy, do
 not hesitate to contact us at privacy@anytalk.in.
+
+
+https://sandeep109.github.io/AnTalk-Privacy/
