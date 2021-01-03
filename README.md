@@ -43,7 +43,8 @@ Link to privacy policy of third party service providers used by the app
 -   [Fabric](https://policies.google.com/privacy)
 
 **Information You Provide**
-******Your Account Information******
+
+*Your Account Information*
 
  You provide your mobile phone number and basic information 
  (including a profile name) to create a WhatsApp account.
