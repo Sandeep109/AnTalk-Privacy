@@ -46,13 +46,13 @@ Link to privacy policy of third party service providers used by the app
 
  * ***Your Account Information***
 
-         You provide your mobile phone number and basic information 
-         (including a profile name) to create a WhatsApp account.
-         You provide us, all in accordance with applicable laws,
-         the phone numbers in your mobile address book on a regular basis,
-         including those of both the users of our Services and your other contacts.
-         You may provide us an email address. You may also add other information 
-         to your account, such as a profile picture and about information.
+      You provide your mobile phone number and basic information 
+      (including a profile name) to create a WhatsApp account.
+      You provide us, all in accordance with applicable laws,
+      the phone numbers in your mobile address book on a regular basis,
+      including those of both the users of our Services and your other contacts.
+      You may provide us an email address. You may also add other information 
+      to your account, such as a profile picture and about information.
 
 
 **Log Data**
