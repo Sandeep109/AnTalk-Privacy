@@ -42,8 +42,8 @@ Link to privacy policy of third party service providers used by the app
 -   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 -   [Fabric](https://policies.google.com/privacy)
 
-#Information You Provide
-**Your Account Information**
+**Information You Provide**
+******Your Account Information******
 
  You provide your mobile phone number and basic information 
  (including a profile name) to create a WhatsApp account.
