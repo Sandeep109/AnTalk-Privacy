@@ -53,6 +53,20 @@ Link to privacy policy of third party service providers used by the app
       including those of both the users of our Services and your other contacts.
       You may provide us an email address. You may also add other information 
       to your account, such as a profile picture and about information.
+      
+      
+ * ***Your Messages***
+
+      We do not retain your messages in the ordinary course of providing our
+      Services to you. Once your messages (including your chats, photos, videos,
+      voice messages, files, and share location information) are delivered,
+      they are deleted from our servers. Your messages are stored on your own device.
+      If a message cannot be delivered immediately (for example, if you are offline),
+      we may keep it on our servers for up to 30 days as we try to deliver it.
+      If a message is still undelivered after 30 days, we delete it.
+      We use end-to-end encryption for our Services. End-to-end encryption means 
+      that your messages are encrypted to protect against us and third parties
+      from reading them.
 
 
 **Log Data**
