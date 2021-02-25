@@ -1,5 +1,4 @@
-#AnTalk Privacy Policy
-
+AnTalk-Privacy
 Privacy Policy
 
 Shakuniya built the Any Talk app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Shakuniya at no cost and is intended for use as is.
