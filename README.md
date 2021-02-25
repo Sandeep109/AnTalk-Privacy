@@ -16,7 +16,7 @@ not use or share your information with anyone except as described in
 this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our
-Terms and Conditions, which is accessible at Any Talk unless otherwise
+Terms and Conditions, which is accessible at AnTalk unless otherwise
 defined in this Privacy Policy.
 
 **Information Collection and Use**
@@ -47,7 +47,7 @@ Link to privacy policy of third party service providers used by the app
  * ***Your Account Information***
 
       You provide your mobile phone number and basic information 
-      (including a profile name) to create a AnyTalk account.
+      (including a profile name) to create a AnTalk account.
       You provide us, all in accordance with applicable laws,
       the phone numbers in your mobile address book on a regular basis,
       including those of both the users of our Services and your other contacts.
